@@ -1,5 +1,5 @@
 # Portfolio Assignment from Analysis of Algorithms (Dec 2020)
-My portfolio/final project from my Analysis of Algorithms (CS 325) class. Not edited since it was submitted in December 2020.
+My portfolio/final project from my Analysis of Algorithms (CS 325) class. Not edited since it was submitted in December 2020. I received a perfect score on it.
 
 ## Assignment Instructions:
 
